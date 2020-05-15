@@ -1,0 +1,206 @@
+.list {
+  list-style: none;
+}
+.logo-left {
+  color: #2196f3;
+}
+.logo-riht {
+  color: #212121;
+}
+.link-navf:hover,
+.link-navf:focus {
+  color: #2196f3;
+}
+
+.link-navf:active {
+  color: #2196f3;
+}
+
+.link-navf.current {
+  color: #2196f3;
+}
+
+.link-navf {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.link-navs:hover,
+.link-navs:focus {
+  color: #2196f3;
+}
+.link-navs,
+.tel {
+  color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.page-header {
+  background-color: #ffffff;
+}
+.hero {
+  background-color: rgba(47, 48, 58, 0.8);
+}
+.hero-title {
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.hero-button {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.87;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+}
+.section {
+  background-color: #e5e5e5;
+}
+.section-title {
+  color: #212121;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+}
+.comand {
+  background-color: #f5f4fa;
+}
+.section-text {
+  color: #757575;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+}
+.section-titles {
+  color: #212121;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+}
+.comand-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+}
+.comand-text {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+}
+.link {
+  color: #ffffff;
+  background-color: rgba(47, 48, 58, 0.8);
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #2f303a;
+}
+.logo-rihts {
+  color: #ffffff;
+}
+.footer-link {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+body {
+  font-family: Roboto, sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.logo {
+  font-family: Raleway, sans-serif;
+}
+.logo-nav {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
+}
+.footer-address {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.logo-footer {
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 1.18;
+  text-decoration: none;
+}
+.action {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+}
+.button {
+  color: #212121;
+  background-color: #f5f4fa;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+}
+.button:hover,
+.button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.section-titlep {
+  color: #212121;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+.section-textp {
+  color: #757575;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87;
+}
+
+.section-textps {
+  color: #ffffff;
+  background-color: rgba(33, 150, 243, 0.9);
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.56;
+}
+.sections {
+  background-color: #ffffff;
+}
