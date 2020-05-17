@@ -58,6 +58,10 @@ body {
   text-decoration: none;
 }
 
+.link-navf {
+  margin-right: 40px;
+}
+
 .link-navs:hover,
 .link-navs:focus {
   color: #2196f3;
@@ -70,6 +74,9 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
+}
+.header-list {
+  display: flex;
 }
 
 .page-header {
@@ -189,6 +196,7 @@ footer {
   color: #ffffff;
   background-color: #2f303a;
 }
+
 .logo-rihts {
   color: #ffffff;
 }
@@ -211,13 +219,22 @@ footer {
   font-size: 14px;
   line-height: 24px;
 }
+.footer-text {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 9px;
+}
 .logo-footer {
+  display: inline-block;
+  margin-bottom: 10px;
   font-weight: bold;
   font-size: 22px;
   line-height: 1.18;
   text-decoration: none;
 }
 .action {
+  display: inline-block;
+  margin-bottom: 21px;
   font-weight: bold;
   font-size: 14px;
   line-height: 1.14;
