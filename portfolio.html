@@ -8,37 +8,48 @@
       href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.6.0/modern-normalize.min.css"
+    />
     <link rel="stylesheet" href="./css/styles.css" />
   </head>
 
   <body>
     <header class="page-header">
-      <nav>
-        <a class="logo-nav" href="/">
-          <span class="logo-left logo">web</span>
-          <span class="logo-riht logo">studio</span></a
-        >
-        <ul class="list">
-          <li>
-            <a class="link-navf" href="./index.html">Студия</a>
-          </li>
-          <li>
-            <a class="link-navf current" href="./portfolio.html">Портфолио</a>
-          </li>
-          <li><a class="link-navf" href="">Контакты</a></li>
-        </ul>
-      </nav>
+      <div class="container">
+        <nav>
+          <a class="logo-nav" href="/">
+            <span class="logo-left logo">web</span>
+            <span class="logo-riht logo">studio</span></a
+          >
+          <ul class="list">
+            <li>
+              <a class="link-navf current" href="./index.html">Студия</a>
+            </li>
+            <li>
+              <a class="link-navf" href="./portfolio.html">Портфолио</a>
+            </li>
+            <li><a class="link-navf" href="">Контакты</a></li>
+          </ul>
+        </nav>
 
-      <ul class="list">
-        <li><a class="link-navs" href="">info@devstudio.com</a></li>
-        <li class="tel">+38 096 111 11 11</li>
-      </ul>
+        <ul class="list">
+          <li><a class="link-navs" href="">info@devstudio.com</a></li>
+          <li class="tel">+38 096 111 11 11</li>
+        </ul>
+      </div>
     </header>
+
     <main>
       <section class="section">
         <h1>Примеры работ</h1>
         <ul class="list">
-          <li><button type="button" class="button">Все</button></li>
+          <li>
+            <button type="button" class="button">
+              Все
+            </button>
+          </li>
           <li><button type="button" class="button">Веб сайты</button></li>
           <li><button type="button" class="button">Приложения</button></li>
           <li><button ctype="button" class="button">Дизайн</button></li>
